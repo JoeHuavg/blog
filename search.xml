@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/blog/2020/07/06/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>English Study 01</title>
+    <url>/blog/2020/07/06/englishstudy-01/</url>
+    <content><![CDATA[<p>[TOC]<br>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
+<a id="more"></a>
+
+<h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Attention-seeker 关注者
+2. Lottery 彩票
+3. Call out 呼喊，号召
+4. Take after 追求
+5. Impairment 损伤
+6. Deformation 形变
+7. Startle 吃惊的
+8. Be accustomed to/be used to 习惯
+9. Reflection 反射
+10. Exorcist 驱魔人
+11. Be humorous about sth. 对某事幽默
+12. Dramatic story 戏剧性的故事
+13. Suffering 痛苦的
+14. Compilation 汇编
+15. Motivation phase 激励阶段
+16. Toddlers 蹒跚 （toddlers off）
+17. Sour 酸的
+18. Genetic 遗传的，基因的
+19. Cruel 残忍的
+20. A fairy tale 童话</code></pre><h2 id="Article-Sharing"><a href="#Article-Sharing" class="headerlink" title="Article Sharing"></a>Article Sharing</h2><h4 id="Remembering-Hollywood-Actress-Elizabeth-Taylor"><a href="#Remembering-Hollywood-Actress-Elizabeth-Taylor" class="headerlink" title="Remembering Hollywood Actress Elizabeth Taylor"></a>Remembering Hollywood Actress Elizabeth Taylor</h4><p>Elizabeth Taylor was born in 1932 to American parents living in London. Her father Francis was an art dealer. Her mother Sara had worked as a stage actress before her marriage. The Taylors left England in 1939 and moved to southern California. Elizabeth`s beauty soon caught the attention of movie studio officials.<br>She made over sixty films during her long career in Hollywood. She was famous for her striking beauty violet eyes and shining black hair. Taylor was equally known for her complex private life and eight marriages. Beginning in the 1980s, she also raised millions of dollars to support AIDS research.<br>Elizabeth Taylor died of heart failure in 2011 at the age of 79. AIDS researcher Mathilde told USA today that the actress was always known for her beauty, success and jewelry. But she said Elizabeth Taylor was also a woman of extreme intelligence, independence, courage and a deep concern for others.</p>
+]]></content>
+      <tags>
+        <tag>English</tag>
+      </tags>
+  </entry>
+</search>
