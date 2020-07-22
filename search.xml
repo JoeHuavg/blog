@@ -1,27 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/blog/2020/07/06/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>English Study 01</title>
     <url>/blog/2020/07/06/englishstudy-01/</url>
-    <content><![CDATA[<p>[TOC]<br>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
+    <content><![CDATA[<p>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
 <a id="more"></a>
 
 <h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Attention-seeker 关注者
@@ -47,6 +29,19 @@
 ]]></content>
       <tags>
         <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>onclouds</title>
+    <url>/blog/2020/07/22/onclouds/</url>
+    <content><![CDATA[<p><img src="/blog/.io//0.jpg" alt="On Clouds"></p>
+<p>先下面聊聊为什么用这个名字吧，“风从云上走过”。意思是说当你想要以一种轻松的生活，你就要用一种厚重的方式来承载它，生活就是这样，等价交换。人总会以一种你看不见的方式去努力。所以就写下来这个名字。</p>
+<p>其实细想下来想记录下自己的生活已经好久了，不过忙忙碌碌的状态一直没有停下来过，考虑了太多自己到底要写什么，反而就这样搁置起来。感觉工作以后，越来越需要通过写下来的方式来记录。特别是从事IT以后，我的生活就越来越被各种信息打扰。所以我关了朋友圈，不看微博，减少了信息被推送。</p>
+<p>后面会慢慢更新这个订阅号的，同时后面还会在Blog上同步。也跟大家分享下目前关于这块架构的想法(毕竟做IT，猫头)，手机端会用微信订阅号和小程序，PC端目前的想法是用GitLab Page和Hexo来生成。</p>
+<p>目前就这些啦，期待后面开始新的生活。</p>
+]]></content>
+      <tags>
+        <tag>Life</tag>
       </tags>
   </entry>
 </search>
