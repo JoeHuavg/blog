@@ -1,56 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>English Study 01</title>
-    <url>/blog/2020/07/06/englishstudy-01/</url>
-    <content><![CDATA[<p>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
-<a id="more"></a>
-
-<h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Attention-seeker 关注者
-2. Lottery 彩票
-3. Call out 呼喊，号召
-4. Take after 追求
-5. Impairment 损伤
-6. Deformation 形变
-7. Startle 吃惊的
-8. Be accustomed to/be used to 习惯
-9. Reflection 反射
-10. Exorcist 驱魔人
-11. Be humorous about sth. 对某事幽默
-12. Dramatic story 戏剧性的故事
-13. Suffering 痛苦的
-14. Compilation 汇编
-15. Motivation phase 激励阶段
-16. Toddlers 蹒跚 （toddlers off）
-17. Sour 酸的
-18. Genetic 遗传的，基因的
-19. Cruel 残忍的
-20. A fairy tale 童话</code></pre><h2 id="Article-Sharing"><a href="#Article-Sharing" class="headerlink" title="Article Sharing"></a>Article Sharing</h2><h4 id="Remembering-Hollywood-Actress-Elizabeth-Taylor"><a href="#Remembering-Hollywood-Actress-Elizabeth-Taylor" class="headerlink" title="Remembering Hollywood Actress Elizabeth Taylor"></a>Remembering Hollywood Actress Elizabeth Taylor</h4><p>Elizabeth Taylor was born in 1932 to American parents living in London. Her father Francis was an art dealer. Her mother Sara had worked as a stage actress before her marriage. The Taylors left England in 1939 and moved to southern California. Elizabeth`s beauty soon caught the attention of movie studio officials.<br>She made over sixty films during her long career in Hollywood. She was famous for her striking beauty violet eyes and shining black hair. Taylor was equally known for her complex private life and eight marriages. Beginning in the 1980s, she also raised millions of dollars to support AIDS research.<br>Elizabeth Taylor died of heart failure in 2011 at the age of 79. AIDS researcher Mathilde told USA today that the actress was always known for her beauty, success and jewelry. But she said Elizabeth Taylor was also a woman of extreme intelligence, independence, courage and a deep concern for others.</p>
-]]></content>
-      <tags>
-        <tag>English</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Beginning On Clouds</title>
-    <url>/blog/2020/07/01/onclouds/</url>
-    <content><![CDATA[<img src="/blog/2020/07/01/onclouds/0.jpg" class="" title="On Clouds">
-
-<p>先下面聊聊为什么用这个名字吧，“风从云上走过”。意思是说当你想要以一种轻松的生活，你就要用一种厚重的方式来承载它，生活就是这样，等价交换。人总会以一种你看不见的方式去努力。所以就写下来这个名字。</p>
-<a id="more"></a>
-
-
-<p>其实细想下来想记录下自己的生活已经好久了，不过忙忙碌碌的状态一直没有停下来过，考虑了太多自己到底要写什么，反而就这样搁置起来。感觉工作以后，越来越需要通过写下来的方式来记录。特别是从事IT以后，我的生活就越来越被各种信息打扰。所以我关了朋友圈，不看微博，减少了信息被推送。</p>
-<p>后面会慢慢更新这个订阅号的，同时后面还会在Blog上同步。也跟大家分享下目前关于这块架构的想法(毕竟做IT，猫头)，手机端会用微信订阅号和小程序，PC端目前的想法是用GitLab Page和Hexo来生成。</p>
-<p>目前就这些啦，期待后面开始新的生活。</p>
-]]></content>
-      <tags>
-        <tag>Life</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>English Study 02</title>
-    <url>/blog/2020/09/01/englishstudy-02/</url>
+    <url>/2020/09/01/englishstudy-02/</url>
     <content><![CDATA[<p>Today we will learn about forty words and an introduction about how do our brains process speech.</p>
 <a id="more"></a>
 
@@ -103,8 +55,126 @@
       </tags>
   </entry>
   <entry>
+    <title>English Study 01</title>
+    <url>/2020/07/06/englishstudy-01/</url>
+    <content><![CDATA[<p>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
+<a id="more"></a>
+
+<h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Attention-seeker 关注者
+2. Lottery 彩票
+3. Call out 呼喊，号召
+4. Take after 追求
+5. Impairment 损伤
+6. Deformation 形变
+7. Startle 吃惊的
+8. Be accustomed to/be used to 习惯
+9. Reflection 反射
+10. Exorcist 驱魔人
+11. Be humorous about sth. 对某事幽默
+12. Dramatic story 戏剧性的故事
+13. Suffering 痛苦的
+14. Compilation 汇编
+15. Motivation phase 激励阶段
+16. Toddlers 蹒跚 （toddlers off）
+17. Sour 酸的
+18. Genetic 遗传的，基因的
+19. Cruel 残忍的
+20. A fairy tale 童话</code></pre><h2 id="Article-Sharing"><a href="#Article-Sharing" class="headerlink" title="Article Sharing"></a>Article Sharing</h2><h4 id="Remembering-Hollywood-Actress-Elizabeth-Taylor"><a href="#Remembering-Hollywood-Actress-Elizabeth-Taylor" class="headerlink" title="Remembering Hollywood Actress Elizabeth Taylor"></a>Remembering Hollywood Actress Elizabeth Taylor</h4><p>Elizabeth Taylor was born in 1932 to American parents living in London. Her father Francis was an art dealer. Her mother Sara had worked as a stage actress before her marriage. The Taylors left England in 1939 and moved to southern California. Elizabeth`s beauty soon caught the attention of movie studio officials.<br>She made over sixty films during her long career in Hollywood. She was famous for her striking beauty violet eyes and shining black hair. Taylor was equally known for her complex private life and eight marriages. Beginning in the 1980s, she also raised millions of dollars to support AIDS research.<br>Elizabeth Taylor died of heart failure in 2011 at the age of 79. AIDS researcher Mathilde told USA today that the actress was always known for her beauty, success and jewelry. But she said Elizabeth Taylor was also a woman of extreme intelligence, independence, courage and a deep concern for others.</p>
+]]></content>
+      <tags>
+        <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>English Study 03</title>
+    <url>/2020/10/01/englishstudy-03/</url>
+    <content><![CDATA[<p>Today we will learn about forty words and an introduction the history of keltoi.</p>
+<a id="more"></a>
+
+<h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Scythian tribes 塞西亚人部落
+2. fierce-looking /fɪəs/ 凶神恶煞的
+3. neck ring 颈环
+4. keltoi / celts 凯尔特人
+5. spread /spred/ 传播，散布
+6. Asia Minor 小亚细亚
+7. Aland Islands 阿兰群岛（波罗的海中芬兰所属群岛）
+8. unified empire 统一的帝国
+9. monument /ˈmɒnjumənt/ 纪念碑；界石；历史遗迹
+10. religious /rɪˈlɪdʒəs/ 宗教的；虔诚的；严谨的；修道的
+11. enthusiastically /ɪnˌθjuːziˈæstɪkli/ 热心地；满腔热情地
+12. stand up to 经得起；抵抗；勇敢地面对
+13. reincarnation /ˌriːɪnkɑːˈneɪʃn/ 再生；化身
+14. feast /fiːst/ 尽情享用，饱餐；宴请；赴宴
+15. naked /ˈneɪkɪd/ 无装饰的；无证据的；直率的
+16. scoff /skɒf/ 嘲笑，嘲弄；贪婪地吃，狼吞虎咽
+17. armor /ˈɑːrmər/ 盔甲；装甲
+18. trophy /ˈtrəʊfi/ 奖品；战利品；纪念品
+19. possess /pəˈzes/ 控制；使掌握；持有；迷住；拥有，具备
+20. severed 切断的；隔断的
+21. jars of cedar oil 雪松油罐
+22. mercenary /ˈmɜːsənəri/ 雇佣的；唯利是图的；雇佣兵
+23. craftsman /&apos;krɑːftsmən/ 工匠；手艺人
+24. brave deeds of their ancestors 先祖的英雄事迹
+25. praise /preɪz/ 赞扬；（尤指唱歌）歌颂（上帝）
+26. biting satires 尖锐的讽刺
+27. cowardly /ˈkaʊədli/ 怯懦的，懦弱的；胆小的
+28. worship /ˈwɜːʃɪp/ 崇拜；礼拜；尊敬
+29. priest /priːst/  牧师；神父；教士
+30. supervise /ˈsuːpəvaɪz/ 监督；管理；指导；主管；照看 
+31. religious /rɪˈlɪdʒəs/ 宗教的；虔诚的；严谨的；
+32. sacrifice /ˈsækrɪfaɪs/ 牺牲；献祭；亏本出售
+33. healer /ˈhiːlə(r)/ 用自然力治疗别人者；治愈师
+34. encroach /ɪnˈkrəʊtʃ/ 蚕食，侵占
+35. territory /ˈterətri/ 领土，领域；范围；地域；
+36. conquer /ˈkɒŋkə(r)/ 战胜，征服；攻克，攻取
+37. Roman legions 罗马军团
+38. march /mɑːtʃ/ 前进；行军，进军；游行示威；进展，进行
+39. bribery /ˈbraɪbəri/ 贿赂；受贿；行贿
+40. threat /θret/ 威胁，恐吓；凶兆
+41. enslave /ɪnˈsleɪv/ 束缚；征服；使某人成为奴隶
+42. invade /ɪnˈveɪd/ 侵略；侵袭；侵扰；涌入
+43. revolt /rɪˈvəʊlt/ 违抗，反抗；起义，叛乱
+44. ruin /ˈruːɪn/ 废墟；毁坏；灭亡</code></pre><h2 id="Article-Sharing"><a href="#Article-Sharing" class="headerlink" title="Article Sharing"></a>Article Sharing</h2><h4 id="No-Less-terrifying-ware-…-the-naked-warriors-in-front-all-oh-whom-wre-finely-built-men-in-thei-prime-of-life"><a href="#No-Less-terrifying-ware-…-the-naked-warriors-in-front-all-oh-whom-wre-finely-built-men-in-thei-prime-of-life" class="headerlink" title="No Less terrifying ware […] the naked warriors in front, all oh whom wre finely built men in thei prime of life."></a>No Less terrifying ware […] the naked warriors in front, all oh whom wre finely built men in thei prime of life.</h4><blockquote>
+<h5 id="——-Polybius-“The-Histories”"><a href="#——-Polybius-“The-Histories”" class="headerlink" title="—— Polybius, “The Histories”"></a>—— Polybius, “The Histories”</h5></blockquote>
+<p>One summer evening in 335 BCE, <em>Alexander</em> the Great was resting by the Danube River after a day of fighting the <strong>Scythian tribes</strong> when a band of strangers approached his camp. Alexander had never anything like these tall, <strong>fierce-looking</strong> warriors with huge golden <strong>neck rings</strong> and colorful cloaks, so he invited them to feast with him. </p>
+<p>They proudly said they were <strong>Keltoi or Celts</strong> who came from the far-away Alps. <em>Alexander</em> asked what they feared the most in the world, hoping they would say him. They laughed and said they feared nothing at all. This is one of the earliest stories about the ancient Celts.</p>
+<p>While we don`t know where the first Celts came from, by <em>Alexander</em>`s time they <strong>spread</strong> across Europe from <strong>Asia Minor</strong> in the east to Spain and the <strong>Atlantic islands</strong> of Britain and Ireland in the west. The Celts were never one <strong>unified empire</strong>, and they didn`t build cities or <strong>monuments</strong>. Instead, they were hundreds of independent tribes who spoke the same language. Each had its own warrior-king and <strong>religious</strong> center.</p>
+<p>The tribes fought each other as <strong>enthusiastically</strong> as the fought their enemies. Few armies could <strong>stand up to</strong> them. Somewhat unusually for their time, the Celts believed in <strong>reincarnation</strong> that they would be reborn on Earth to live and <strong>feast</strong> and fight again, which may have contributed to their fearlessness in battle. Some of them fought <strong>naked</strong>, <strong>scoffing</strong> at their enemies` <strong>armor</strong>.</p>
+<p>The greatest <strong>trophy</strong> a Celtic warrior could <strong>possess</strong> was the <strong>severed</strong> head of a foe. They preserve these heads in <strong>jars of cedar oil</strong> and showed them to guests who visited their homes. Celtic warriors were so value in the ancient world, the foreign kings often hired them as <strong>mercenary</strong> soldiers to serve in their armies.</p>
+<p>But the Celts were much more than just warriors. Among them were many skilled <strong>craftsmen</strong>, artists, and great poets called bards. The bards sang of the <strong>brave deeds of their ancestors</strong> and <strong>praised</strong> the accomplishments of warrior kings, and composed <strong>biting satires</strong> about <strong>cowardly</strong> or selfish leaders.</p>
+
+
+<p>The Celts <strong>worshipped</strong> many gods, and <strong>priests</strong> known as druids oversaw this worship. Anyone could become a druid, but the training required many years of study and memorization, the druids were not allowed to record any of their teachings in writing. Druids <strong>supervised</strong> <strong>religious</strong> practices and <strong>sacrifices</strong> to the gods, but they also teachers, <strong>healers</strong>, judges, and scientists. They were so respected that they could step between warring tribes in the middle of a battle and call an end to the fighting. No Celt would dare to harm a druid, or question their decisions.</p>
+<p>In the 2nd century BCE, the Romans began to <strong>encroach</strong> on Celtic <strong>territory</strong>, <strong>conquering</strong> the tribes of northern Italy. Rather than unite against the <strong>Roman legions</strong> in response to this defeat, the Celts maintained their tribal divisions. The tribes of Spain fell soon after. In the 1st century BCE, <em>Julius Caesar</em> <strong>marched</strong> his armies across France, using <strong>bribery</strong>, <strong>threats</strong>, and lies to turn tribes against each other. Only in the closing days of this great was did the Celts unite against their common enemy under the leadership of king <em>Vercingetorix</em>, but it was too late. Countless warriors and their families die or were <strong>enslaved</strong> as the Romans conquered France.</p>
+<p>Protected by the surrounding waters, the Celtic tribes of Britain and Ireland were the last holdouts. When the Romans finally <strong>invaded</strong> Britain, the queen <em>Boudicca</em> united her tribe in a <strong>revolt</strong> after her husband was killed. She almost succeeded in driving the Roman legions out of Britain before dying as she led a final battle against the enemy.</p>
+
+
+<p>By the end of the 1st century CE, Ireland alone, far out at sea, remain unconquered by Rome. There, the ways of the ancient Celts survived untouched by the outside world long after Rome itself lay in <strong>ruins</strong>.</p>
+]]></content>
+      <tags>
+        <tag>English</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Beginning On Clouds</title>
+    <url>/2020/07/01/onclouds/</url>
+    <content><![CDATA[<img src="/blog/.io//2020/07/01/onclouds/0.jpg" class title="On Clouds">
+
+<p>先下面聊聊为什么用这个名字吧，“风从云上走过”。意思是说当你想要以一种轻松的生活，你就要用一种厚重的方式来承载它，生活就是这样，等价交换。人总会以一种你看不见的方式去努力。所以就写下来这个名字。</p>
+<a id="more"></a>
+
+
+<p>其实细想下来想记录下自己的生活已经好久了，不过忙忙碌碌的状态一直没有停下来过，考虑了太多自己到底要写什么，反而就这样搁置起来。感觉工作以后，越来越需要通过写下来的方式来记录。特别是从事IT以后，我的生活就越来越被各种信息打扰。所以我关了朋友圈，不看微博，减少了信息被推送。</p>
+<p>后面会慢慢更新这个订阅号的，同时后面还会在Blog上同步。也跟大家分享下目前关于这块架构的想法(毕竟做IT，猫头)，手机端会用微信订阅号和小程序，PC端目前的想法是用GitLab Page和Hexo来生成。</p>
+<p>目前就这些啦，期待后面开始新的生活。</p>
+]]></content>
+      <tags>
+        <tag>Life</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>敬畏时间，失去的永远不会回来</title>
-    <url>/blog/2020/09/05/movie-interstellar/</url>
+    <url>/2020/09/05/movie-interstellar/</url>
     <content><![CDATA[<h2 id="敬畏时间，失去的永远不会回来"><a href="#敬畏时间，失去的永远不会回来" class="headerlink" title="敬畏时间，失去的永远不会回来"></a>敬畏时间，失去的永远不会回来</h2><p><code>———— 墨菲定律：如果有两种或两种以上的方式去做某件事情，而其中一种选择方式将导致灾难，则必定有人会做出这种选择。根本内容是：如果事情有变坏的可能，不管这种可能性有多小，它总会发生。</code></p>
 <hr>
 <p>今天在电影院又把心心念念的时候星际穿越看了一遍，这是第三次看了，发现了一些之前没有注意的细节。虽然中间有点插曲，但评论总归是要写的。</p>
@@ -122,7 +192,7 @@
 <blockquote>
 <p>Brand<br>布兰德<br>She’s out there.<br>她还在太空里<br>Setting up camp.<br>在搭建营地<br>Alone…<br>独自一人<br>In a strange galaxy.<br>在一个陌生的星系<br>Maybe right now she’s settling in for a long nap…<br>也许她现在正准备去睡一个长觉<br>By the light of our new sun.<br>沐浴着新太阳的光芒<br>In our new home.<br>在我们新的家园</p>
 </blockquote>
-
+<img src="/blog/.io//2020/09/05/movie-interstellar/0.jpg" class title="Interstellar">
 
 
 
@@ -136,43 +206,8 @@
       </tags>
   </entry>
   <entry>
-    <title>English Study 03</title>
-    <url>/blog/2020/10/01/englishstudy-03/</url>
-    <content><![CDATA[<p>Today we will learn about fifteen words and an introduction the history of keltoi.</p>
-<a id="more"></a>
-
-<h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Scythian tribes 塞西亚人部落
-2. fierce-looking /fɪəs/ 凶神恶煞的
-3. neck ring 颈环
-4. keltoi / celts 凯尔特人
-5. spread /spred/ 传播，散布
-6. Asia Minor 小亚细亚
-7. Aland Islands 阿兰群岛（波罗的海中芬兰所属群岛）
-8. unified empire 统一的帝国
-9. monument /ˈmɒnjumənt/ 纪念碑；界石；历史遗迹
-10. religious /rɪˈlɪdʒəs/ 宗教的；虔诚的；严谨的；修道的
-11. enthusiastically /ɪnˌθjuːziˈæstɪkli/ 热心地；满腔热情地
-12. stand up to 经得起；抵抗；勇敢地面对
-13. reincarnation /ˌriːɪnkɑːˈneɪʃn/ 再生；化身</code></pre><h2 id="Article-Sharing"><a href="#Article-Sharing" class="headerlink" title="Article Sharing"></a>Article Sharing</h2><h4 id="No-Less-terrifying-ware-…-the-naked-warriors-in-front-all-oh-whom-wre-finely-built-men-in-thei-prime-of-life"><a href="#No-Less-terrifying-ware-…-the-naked-warriors-in-front-all-oh-whom-wre-finely-built-men-in-thei-prime-of-life" class="headerlink" title="No Less terrifying ware […] the naked warriors in front, all oh whom wre finely built men in thei prime of life."></a>No Less terrifying ware […] the naked warriors in front, all oh whom wre finely built men in thei prime of life.</h4><blockquote>
-<h5 id="——-Polybius-“The-Histories”"><a href="#——-Polybius-“The-Histories”" class="headerlink" title="—— Polybius, “The Histories”"></a>—— Polybius, “The Histories”</h5></blockquote>
-<p>One summer evening in 335 BCE, <em>Alexander</em> the Great was resting by the Danube River after a day of fighting the <strong>Scythian tribes</strong> when a band of strangers approached his camp. Alexander had never anything like these tall, <strong>fierce-looking</strong> warriors with huge golden <strong>neck rings</strong> and colorful cloaks, so he invited them to feast with him. </p>
-<p>They proudly said they were <strong>Keltoi or Celts</strong> who came from the far-away Alps. <em>Alexander</em> asked what they feared the most in the world, hoping they would say him. They laughed and said they feared nothing at all. This is one of the earliest stories about the ancient Celts.</p>
-<p>While we don`t know where the first Celts came from, by <em>Alexander</em>`s time they <strong>spread</strong> across Europe from <strong>Asia Minor</strong> in the east to Spain and the <strong>Atlantic islands</strong> of Britain and Ireland in the west. The Celts were never one <strong>unified empire</strong>, and they didn`t build cities or <strong>monuments</strong>. Instead, they were hundreds of independent tribes who spoke the same language. Each had its own warrior-king and <strong>religious</strong> center.</p>
-<p>The tribes fought each other as <strong>enthusiastically</strong> as the fought their enemies. Few armies could <strong>stand up to</strong> them. Somewhat unusually for their time, the Celts believed in <strong>reincarnation</strong> that they would be reborn on Earth to live and feast and fight again, which may have contributed to their fearlessness in battle. Some of them fought naked, scoffing at their enemies` armor.</p>
-<p>The greatest trophy a Celtic warrior could possess was the severed head of a foe. They preserve these heads in jars of cedar oil and showed them to guests who visited their homes. Celtic warriors were so value in the ancient world, the foreign kings often hired them as mercenary soldiers to serve in their armies.</p>
-<p>But the Celts were much more than just warriors. Among them were many skilled craftsmen, artists, and great poets called bards. The bards sang of the brave deeds of their ancestors and praised the accomplishments of warrior kings, and composed biting satires about cowardly or selfish leaders.</p>
-<p>The Celts worshipped many gods, and priests known as druids oversaw this worship. Anyone could become a druid, but the training required many years of study and memorization, the druids were not allowed to record any of their teachings in writing. Druids supervised religious practices and sacrifices to the gods, but they also teachers, healers, judges, and scientists. They were so respected that they could step between warring tribes in the middle of a battle and call an end to the fighting. No Celt would dare to harm a druid, or question their decisions.</p>
-<p>In the 2nd century BCE, the Romans began to encroach on Celtic territory, conquering the tribes of northern Italy. Rather than unite against the Roman legions in response to this defeat, the Celts maintained their tribal divisions. The tribes of Spain fell soon after. In the 1st century BCE, Julius Caesar marched his armies across France, using bribery, threats, and lies to turn tribes against each other. Only in the closing days of this great was did the Celts unite against their common enemy under the leadership of king Vercingetorix, but it was too late. Countless warriors and their families die or were enslaved as the Romans conquered France.</p>
-<p>Protected by the surrounding waters, the Celtic tribes of Britain and Ireland were the last holdouts. When the Romans finally invaded Britain, the queen Boudicca united her tribe in a revolt after her husband was killed. She almost succeeded in driving the Roman legions out of Britain before dying as she led a final battle against the enemy.</p>
-<p>By the end of the 1st century CE, Ireland alone, far out at sea, remain unconquered by Rome. There, the ways of the ancient Celts survived untouched by the outside world long after Rome itself lay in ruins.</p>
-]]></content>
-      <tags>
-        <tag>English</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>MySql安装与配置</title>
-    <url>/blog/2020/09/17/tech-installmysql/</url>
+    <url>/2020/09/17/tech-installmysql/</url>
     <content><![CDATA[<p>在Ubuntu上安装MySQL</p>
 <p>第一步：</p>
 <p>执行如下脚本安装软件：</p>
@@ -207,5 +242,10 @@
       <tags>
         <tag>Technology</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>englishstudy-04</title>
+    <url>/2020/10/05/englishstudy-04/</url>
+    <content><![CDATA[<img src="/blog/.io//2020/10/05/englishstudy-04/01.jpg" class title="This is an test image">]]></content>
   </entry>
 </search>
