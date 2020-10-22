@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>English Study 02</title>
-    <url>/2020/09/01/englishstudy-02/</url>
+    <url>/blog/2020/09/01/englishstudy-02/</url>
     <content><![CDATA[<p>Today we will learn about forty words and an introduction about how do our brains process speech.</p>
 <a id="more"></a>
 
@@ -56,7 +56,7 @@
   </entry>
   <entry>
     <title>English Study 01</title>
-    <url>/2020/07/06/englishstudy-01/</url>
+    <url>/blog/2020/07/06/englishstudy-01/</url>
     <content><![CDATA[<p>Today we will learn about twenty words and an introduction about Elizabeth Tayler.</p>
 <a id="more"></a>
 
@@ -87,10 +87,14 @@
   </entry>
   <entry>
     <title>English Study 03</title>
-    <url>/2020/10/01/englishstudy-03/</url>
+    <url>/blog/2020/10/01/englishstudy-03/</url>
     <content><![CDATA[<p>Today we will learn about forty words and an introduction the history of keltoi.</p>
 <a id="more"></a>
 
+<h2 id="Backround"><a href="#Backround" class="headerlink" title="Backround"></a>Backround</h2><p>Alexander: 马其顿的亚历山大三世，世称亚历山大大帝，古希腊马其顿王国国王，是古希腊著名王室阿吉德王朝成员。亚历山大出生于前356年的佩拉，在二十岁时从他的父王腓力二世手上继承马其顿王位，几乎他的统治期间都在进行前无古人的大型军事征服活动。</p>
+<p>Julius Caesar: 盖乌斯·尤利乌斯·恺撒，或译儒略·恺撒，罗马共和国末期的军事统帅、政治家，是罗马共和国体制转向罗马帝国的关键人物，史称恺撒大帝或罗马共和国的独裁者。他也是拉丁文散文的作者。 恺撒出身贵族，历任财务官、大祭司、大法官、执政官、监察官、独裁官等职。</p>
+<p>Vercingetorix: 维钦托利，又译韦辛格托里克斯，是高卢阿维尔尼人的部落首领，曾领导高卢人对罗马统治的最后反抗。 维钦托利是阿维尔尼首领之子，在高卢战争末期，他领导高卢人民试图将入侵的凯撒及其军队赶出高卢。在前52年的阿莱西亚之战中败北，随后被押送罗马关押，并在前46年凯撒庆祝胜利仪式期间处决。</p>
+<p>Boudicca: 布狄卡，旧名博阿迪西亚，威尔士语中称她为比达格，是英格兰东英吉利亚地区古代爱西尼部落的王后和女王，其丈夫普拉苏塔古斯是爱西尼人的统治者。由于在丈夫普拉苏塔古斯去世后，罗马人抢去了其土地、自己受毒打，深爱的女儿们惨遭凌辱、国民要交重税，因此她领导了不列颠诸部落反抗罗马帝国占领军统治的起义。</p>
 <h2 id="Words-Memory"><a href="#Words-Memory" class="headerlink" title="Words Memory"></a>Words Memory</h2><pre><code>1. Scythian tribes 塞西亚人部落
 2. fierce-looking /fɪəs/ 凶神恶煞的
 3. neck ring 颈环
@@ -157,7 +161,7 @@
   </entry>
   <entry>
     <title>Beginning On Clouds</title>
-    <url>/2020/07/01/onclouds/</url>
+    <url>/blog/2020/07/01/onclouds/</url>
     <content><![CDATA[<img src="/blog/.io//2020/07/01/onclouds/0.jpg" class title="On Clouds">
 
 <p>先下面聊聊为什么用这个名字吧，“风从云上走过”。意思是说当你想要以一种轻松的生活，你就要用一种厚重的方式来承载它，生活就是这样，等价交换。人总会以一种你看不见的方式去努力。所以就写下来这个名字。</p>
@@ -174,7 +178,7 @@
   </entry>
   <entry>
     <title>敬畏时间，失去的永远不会回来</title>
-    <url>/2020/09/05/movie-interstellar/</url>
+    <url>/blog/2020/09/05/movie-interstellar/</url>
     <content><![CDATA[<h2 id="敬畏时间，失去的永远不会回来"><a href="#敬畏时间，失去的永远不会回来" class="headerlink" title="敬畏时间，失去的永远不会回来"></a>敬畏时间，失去的永远不会回来</h2><p><code>———— 墨菲定律：如果有两种或两种以上的方式去做某件事情，而其中一种选择方式将导致灾难，则必定有人会做出这种选择。根本内容是：如果事情有变坏的可能，不管这种可能性有多小，它总会发生。</code></p>
 <hr>
 <p>今天在电影院又把心心念念的时候星际穿越看了一遍，这是第三次看了，发现了一些之前没有注意的细节。虽然中间有点插曲，但评论总归是要写的。</p>
@@ -207,7 +211,7 @@
   </entry>
   <entry>
     <title>MySql安装与配置</title>
-    <url>/2020/09/17/tech-installmysql/</url>
+    <url>/blog/2020/09/17/tech-installmysql/</url>
     <content><![CDATA[<p>在Ubuntu上安装MySQL</p>
 <p>第一步：</p>
 <p>执行如下脚本安装软件：</p>
@@ -245,7 +249,51 @@
   </entry>
   <entry>
     <title>englishstudy-04</title>
-    <url>/2020/10/05/englishstudy-04/</url>
+    <url>/blog/2020/10/05/englishstudy-04/</url>
     <content><![CDATA[<img src="/blog/.io//2020/10/05/englishstudy-04/01.jpg" class title="This is an test image">]]></content>
+  </entry>
+  <entry>
+    <title>tech-code</title>
+    <url>/blog/2020/10/22/tech-code/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>优化代码中大量的if/else</title>
+    <url>/blog/2020/10/22/tech-codeoptimizeifelse/</url>
+    <content><![CDATA[<p>前期迭代懒得优化，来一个需求，加一个if，久而久之，就串成了一座金字塔。</p>
+<img src="/blog/.io//2020/10/22/tech-codeoptimizeifelse/%E5%9B%BE%E5%83%8F_1.png" class title="图1">
+
+<p>当代码已经复杂到难以维护的程度之后，只能狠下心重构优化。那，有什么方案可以优雅的优化掉这些多余的if/else?</p>
+<ol>
+<li>提前return这是判断条件取反的做法，代码在逻辑表达上会更清晰，看下面代码：</li>
+</ol>
+<p>图1</p>
+<p>其实，每次看到上面这种代码，我都心里抓痒，完全可以先判断!condition，干掉else。</p>
+<p>图2</p>
+<ol start="2">
+<li>策略模式有这么一种场景，根据不同的参数走不同的逻辑，其实这种场景很常见。最一般的实现：</li>
+</ol>
+<p>图3</p>
+<p>看上面代码，有4种策略，有两种优化方案。</p>
+<p>2.1 多态</p>
+<p>图4</p>
+<p>具体策略对象存放在一个Map中，优化后的实现</p>
+<p>图5</p>
+<p>上面这种优化方案有一个弊端，为了能够快速拿到对应的策略实现，需要map对象来保存策略，当添加一个新策略的时候，还需要手动添加到map中，容易被忽略。</p>
+<p>2.2 枚举发现很多同学不知道在枚举中可以定义方法，这里定义一个表示状态的枚举，另外可以实现一个run方法。</p>
+<p>图6</p>
+<p>重新定义策略枚举</p>
+<p>图7</p>
+<p>通过枚举优化之后的代码如下</p>
+<p>图8</p>
+<p>2.3 数组小技巧来自google解释，这是一种编程模式，叫做表驱动法，本质是从表里查询信息来代替逻辑语句，比如有这么一个场景，通过月份来获取当月的天数，仅作为案例演示，数据并不严谨。一般的实现：</p>
+<p>图9</p>
+<p>优化后的代码</p>
+<p>图10</p>
+<p>结束</p>
+]]></content>
+      <tags>
+        <tag>Technology</tag>
+      </tags>
   </entry>
 </search>
